@@ -5,7 +5,7 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install eros.
 
 ```bash
-pip install eros
+pip install eros_api
 ```
 
 ## Usage
