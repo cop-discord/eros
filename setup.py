@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="eros",
+    name="eros_api",
     version="0.0.1",
     author="cop",
     author_email="cop@catgir.ls",
@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/cop-discord/eros",
-    download_url = "https://github.com/cop-discord/eros"
+    download_url = "https://github.com/cop-discord/eros",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
